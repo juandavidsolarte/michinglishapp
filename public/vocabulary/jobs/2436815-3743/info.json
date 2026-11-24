@@ -1,0 +1,30 @@
+{
+  "user": {
+    "username": "Juan David Solarte",
+    "profileImage": "https://github.com/juandavidsolarte.png",
+    "socialNetwork": "https://www.instagram.com",
+    "socialLink": "@js99"
+  },
+  "words": [
+    {
+      "id": 1,
+      "en": "AI engineer",
+      "es": "ingeniero de IA"
+    },
+    {
+      "id": 2,
+      "en": "data scientist",
+      "es": "científico de datos"
+    },
+    {
+      "id": 3,
+      "en": "software developer",
+      "es": "desarrollador de software"
+    },
+    {
+      "id": 4,
+      "en": "systems analyst",
+      "es": "analista de sistemas"
+    }
+  ]
+}
